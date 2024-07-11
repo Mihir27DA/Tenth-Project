@@ -1,1 +1,3 @@
 # Tenth-Project
+
+The dashboard features data on gender distribution (60% male, 40% female) and marital status, with 401 married men and 272 married women. The average employee age is 54.28 years, with an average tenure of 7 years and 11.28 average working hours. The dashboard includes average monthly incomes across departments and job roles, with managers in Human Resources earning the highest at $18,089. It shows total employees by education, with the majority in Life Sciences (606) and Medical (464). Moreover,, it shows the number of companies employees have worked for, and the distribution of employees by department and role.
